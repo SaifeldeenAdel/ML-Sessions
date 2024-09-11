@@ -36,3 +36,8 @@ Repeat the same process using 2 other classification algorithms of your choice.
 Research other classification algorithms (examples include Decision tree, Linear SVM, RBF SVM, Naive Bayes) all of which you'll find implementation for on in scikit-learn.
 
 Discuss which alogorithm would you choose and why? (there might not be a right answer, only correct reasoning for your choice).
+
+## Deliverables
+
+-   Code Notebook showing your algorithms and the code used the plot the decision boundaries
+-   Algorithm Discussion, which algorithm is the best, etc. Can be in the notebook or a seperate document
