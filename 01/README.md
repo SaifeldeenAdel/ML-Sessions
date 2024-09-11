@@ -25,6 +25,9 @@ Build a K-Nearest Neighbors (KNN) classifier to predict the species of the flowe
 -   Train a KNN classifier using the training set (see sklearn docs)
 -   Make predictions on the test set.
 -   Evaluate the model using accuracy.
+-   **Plot the decision boundary of your model, see the image below.**
+
+![img](/01/img/Screenshot%202024-09-11%20202631.png)
 
 ### Task 2:
 
