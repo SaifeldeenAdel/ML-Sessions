@@ -30,10 +30,16 @@ Evaluation:
 
 ![img](/02/img/Screenshot%202024-09-13%20190554.png)
 
-Deliverables:
+## Deliverables:
 
 -   Code: A Python script or notebook with the implementation
 
 -   Visuals in notebook include
     -   Dataset plot
     -   A loss vs. epochs plot
+
+## Resources
+
+[Neural Network Playlist](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
+
+[PyTorch Tutorials (1-12)](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&ab_channel=PatrickLoeber)
