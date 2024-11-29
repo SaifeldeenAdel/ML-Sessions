@@ -43,7 +43,9 @@ Details:
 
 -   Build a Convolutional Neural Network (CNN) from scratch for image classification. Your CNN should take the 128x128 images as input and output probabilities for each class.
 
--   Train the model using a suitable loss function (e.g., cross-entropy loss for multi-class classification).
+-   Think of your layer dimensions (ex, how many neurons in the last layer?)
+
+-   Train the model using a suitable loss function (e.g., [cross-entropy loss](https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html) for multi-class classification).
 
 -   Use the [Adam](https://pytorch.org/docs/stable/generated/torch.optim.Adam.html) optimizer
 
@@ -66,3 +68,9 @@ Visualization - Optional:
 -   Google Colab Notebook:
 -   The complete code for loading the dataset, defining the model, training, and evaluating.
 -   Well-documented with comments and explanations for every step.
+
+Resources
+
+-   [Datasets - Dataloaders](https://www.youtube.com/watch?v=PXOzkkB5eH0&t=605s&ab_channel=PatrickLoeber)
+-   [Dataset Transforms](https://www.youtube.com/watch?v=X_QOZEko5uE&ab_channel=PatrickLoeber)
+-   [PyTorch Playlist](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&ab_channel=PatrickLoeber)
