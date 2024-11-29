@@ -74,3 +74,4 @@ Resources
 -   [Datasets - Dataloaders](https://www.youtube.com/watch?v=PXOzkkB5eH0&t=605s&ab_channel=PatrickLoeber)
 -   [Dataset Transforms](https://www.youtube.com/watch?v=X_QOZEko5uE&ab_channel=PatrickLoeber)
 -   [PyTorch Playlist](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4&ab_channel=PatrickLoeber)
+-   [Full Workflow tutorial - (Very useful for understanding datasets, training loop, etc. He doesn't build the model from scratch so don't copy his code ofcourse.)](https://www.youtube.com/watch?v=tHL5STNJKag&ab_channel=RobMulla)
