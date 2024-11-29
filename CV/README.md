@@ -6,15 +6,16 @@ In this assignment, you will design, train, and evaluate a convolutional neural 
 
 ## Dataset:
 
-Caltech 101
+[Caltech 101](https://www.kaggle.com/datasets/imbikramsaha/caltech-101)
 The Caltech 101 Dataset contains images from 101 object categories (e.g., airplanes, faces, flowers) with varying numbers of samples per class (40-800)
 
 **How to load dataset into google colab?**
 
--   Download the dataset
+-   Download the dataset as zip - 137 MB
 -   Upload it to google drive
 -   Mount your drive in your colab notebook
--   Access all folders of your dataset through a path like `/content/drive/dataset`
+-   Access zip file a path like `/content/drive/dataset`
+-   Look into how to unzip files in colab, unzip the file and you'll have access to all the folders
 
 Find more details [here](https://www.geeksforgeeks.org/how-to-load-a-dataset-from-the-google-drive-to-google-colab/)
 
